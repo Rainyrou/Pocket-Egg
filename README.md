@@ -1,31 +1,23 @@
-# example
+### FinStack
 
-## QuickStart
+技术栈：
 
-<!-- add docs here for user -->
+* 前端：React + Zarm Design + Vite
 
-see [egg docs][egg] for more detail.
+* 后端：Eggjs + Mysql
 
-### Development
+项目实践：
 
-```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
-```
+✅ 封装弹窗、导航等 8 个组件
 
-### Deploy
+✅ 二次封装 axios & JWT 前后端认证 & 跨域代理 
 
-```bash
-$ npm start
-$ npm stop
-```
+✅ 1 套后端 crud & 10+ 接口设计
 
-### npm scripts
+✅ 可视化工具 Echart + DBevaer
 
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
+✅ 按需引入 Zarm Design & 动态懒加载 
 
+✅ 集成 Vite + Husky + ESLint + lint-staged 等前端工程化配置
 
-[egg]: https://eggjs.org
+✅ 移动端适配 & 从用户角度设计数据表
